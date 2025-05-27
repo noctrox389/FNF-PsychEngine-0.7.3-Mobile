@@ -45,7 +45,7 @@
       "name": "linc_luajit",
       "type": "git",
       "ref": "master",
-      "url": "https://github.com/Sirox228/linc_luajit"
+      "url": "https://github.com/noctrox389/linc_luajit"
     },
     {
       "name": "tjson",
