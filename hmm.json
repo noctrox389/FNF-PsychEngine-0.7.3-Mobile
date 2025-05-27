@@ -11,6 +11,11 @@
       "version": "9.1.0"
     },
     {
+  "name": "SScript",
+  "type": "haxelib",
+  "version": "21.0.0"
+    },
+    {
       "name": "flixel",
       "type": "haxelib",
       "version": "5.5.0"
