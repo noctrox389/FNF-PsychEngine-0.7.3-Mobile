@@ -5,7 +5,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/noctrox389/lime-8.2.1"
+      "url": "https://github.com/noctrox389/lime"
     },
     {
       "name": "openfl",
@@ -53,7 +53,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/noctrox389/SScript-7.7.0"
+      "url": "https://github.com/noctrox389/SScript-7.0.0"
     },
     {
       "name": "tjson",
