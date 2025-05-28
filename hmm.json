@@ -2,23 +2,32 @@
   "dependencies": [
     {
       "name": "lime",
-      "type": "haxelib",
-      "version": "8.2.1"
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/noctrox389/lime-8.2.1"
     },
     {
       "name": "openfl",
       "type": "haxelib",
-      "version": "9.1.0"
+      "version": "9.3.2"
     },
     {
       "name": "flixel",
-      "type": "haxelib",
-      "version": "5.2.2"
+      "type": "git",
+      "dir": null,
+      "ref": "5.5.0",
+      "url": "https://github.com/noctrox389/flixel"
     },
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "2.11.0"
+      "version": "3.2.1"
+    },
+    {
+      "name": "flixel-tools",
+      "type": "haxelib",
+      "version": "1.5.1"
     },
     {
       "name": "flixel-ui",
@@ -26,28 +35,58 @@
       "version": "2.5.0"
     },
     {
-      "name": "hxCodec",
+      "name": "hxcpp",
       "type": "git",
-      "url": "https://github.com/polybiusproxy/hxCodec",
-      "ref": "cafc58e9046505ff93fa659339808b53faa5d6f3"
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/noctrox389/hxcpp"
     },
     {
-      "name": "linc_luajit",
+      "name": "hxCodec",
       "type": "git",
-      "url": "https://github.com/noctrog389/linc_luajit",
-      "ref": "main"
+      "dir": null,
+      "ref": "cafc58e9046505ff93fa659339808b53faa5d6f3",
+      "url": "https://github.com/polybiusproxy/hxCodec"
     },
     {
       "name": "SScript",
       "type": "git",
-      "url": "https://github.com/DoktorXytel/SScript",
-      "ref": "main"
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/noctrox389/SScript-7.7.0"
+    },
+    {
+      "name": "tjson",
+      "type": "haxelib",
+      "version": "1.4.0"
+    },
+    {
+      "name": "hxdiscord_rpc",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/MAJigsaw77/hxdiscord_rpc"
+    },
+    {
+      "name": "linc_luajit",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/noctrox389/linc_luajit"
+    },
+    {
+      "name": "flxanimate",
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/ShadowMario/flxanimate.git"
     },
     {
       "name": "extension-androidtools",
       "type": "git",
-      "url": "https://github.com/MAJigsaw77/extension-androidtools",
-      "ref": "main"
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/MAJigsaw77/extension-androidtools"
     }
   ]
 }
